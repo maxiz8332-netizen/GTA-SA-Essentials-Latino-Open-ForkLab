@@ -27,9 +27,6 @@ Dado el tamaño considerable del paquete con todos los binarios y recursos, la d
 
 Cómo Instalar:
 
-**¡Importante!** Esta descarga contiene todos los archivos pre-compilados y necesarios para que el mod funcione directamente en tu juego.
-
-## Cómo Instalar:
 Sigue estos sencillos pasos para instalar el GTA SA Essentials Latino Open ForkLab:
 1.  **Asegúrate de tener una instalación limpia de Grand Theft Auto: San Andreas.** Es altamente recomendable comenzar con una instalación recién hecha y sin otros mods instalados previamente para evitar posibles conflictos.
 2.  **Descarga el paquete "GTA SA Essentials Latino Open ForkLab"** usando el enlace de Google Drive proporcionado arriba.
