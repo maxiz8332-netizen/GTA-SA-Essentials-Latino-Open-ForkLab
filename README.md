@@ -18,10 +18,14 @@ Este proyecto es de código abierto. Te invitamos a:
 
 ¡Tu colaboración es clave para el crecimiento y la mejora continua de este proyecto!
 
-## **Descarga del Mod Completo (Versión Lista para Instalar):**
-Dado el tamaño considerable del paquete con todos los binarios y recursos, la descarga de la versión lista para instalar se encuentra alojada externamente.
+Descarga del Mod Completo (Versión Lista para Instalar):
+Dado el tamaño considerable del paquete con todos los binarios y recursos, la descarga de la versión lista para instalar se encuentra alojada externamente en INTERNET ARCHIVE
 
-**[➡️ Haz clic aquí para descargar GTA SA Essentials Latino Open ForkLab desde INTERNET ARCHIVE ⬅️](https://archive.org/details/gta-sa-essentials-latino-open-fork-lab.-7z)**
+➡️ https://archive.org/details/gta-sa-essentials-latino-open-fork-lab.-7z ⬅️
+
+¡Importante! Esta descarga contiene todos los archivos pre-compilados y necesarios para que el mod funcione directamente en tu juego.
+
+Cómo Instalar:
 
 **¡Importante!** Esta descarga contiene todos los archivos pre-compilados y necesarios para que el mod funcione directamente en tu juego.
 
