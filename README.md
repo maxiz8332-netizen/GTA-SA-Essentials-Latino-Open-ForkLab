@@ -1,4 +1,3 @@
-```markdown
 # GTA SA Essentials Latino Open ForkLab
 
 Este proyecto busca mejorar y actualizar la experiencia de *Grand Theft Auto: San Andreas*, ofreciendo un paquete de mods y archivos esenciales configurados especialmente para la comunidad latina.
@@ -17,8 +16,11 @@ Este proyecto busca mejorar y actualizar la experiencia de *Grand Theft Auto: Sa
 
 ---
 
-### 💾 ¡Importante!
+### 💾 Descarga e Importante
 Esta descarga contiene todos los archivos pre-compilados y necesarios para que el mod funcione directamente en tu juego. No necesitas compilar nada, solo arrastrar y soltar.
+
+Puedes descargar el paquete completo desde este enlace directo en Internet Archive:  
+👉 https://archive.org/details/gta-sa-essentials-latino-open-fork-lab.-7z
 
 ---
 
