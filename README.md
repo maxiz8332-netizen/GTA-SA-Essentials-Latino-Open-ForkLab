@@ -36,3 +36,15 @@ Sigue estos sencillos pasos para instalar el **GTA SA Essentials Latino Open For
 ---
 
 > ⚠️ **Nota sobre Packs de Texturas:** Si planeas instalar texturas personalizadas encima de este paquete, se recomienda usar versiones optimizadas y de baja resolución para no saturar el motor y mantener la excelente estabilidad de este paquete.
+
+---
+
+### 🏅 Créditos y Agradecimientos
+
+Este paquete no sería posible sin el increíble trabajo, esfuerzo y dedicación de los desarrolladores originales de la comunidad de modding de GTA:
+
+* **Silent** – Por el desarrollo del *SilentPatch*, la corrección de errores base y la optimización del juego.
+* **CookiePLMonster** – Por las herramientas críticas de compatibilidad y parches esenciales ASI.
+* **fastman92** – Por la creación del *fastman92 limit adjuster*, fundamental para expandir los límites del motor RenderWare.
+* **Link2012** – Por el desarrollo de *Modloader*, el sistema que revolucionó la forma de instalar modificaciones de manera limpia.
+* A todos los autores de los plugins, plugins ASI, herramientas de compatibilidad (`GInput`, inyectores) y configuraciones comunitarias que forman la base estructural de este fork.
