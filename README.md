@@ -36,3 +36,5 @@ Tu retroalimentación es invaluable. Si encuentras algún error, tienes alguna s
 
 Licencia:
 Este proyecto se distribuye bajo la MIT License. Puedes consultar el archivo LICENSE en este repositorio para los detalles completos de los términos de uso
+
+Nota sobre Packs de Texturas: Si planeas instalar texturas personalizadas, ten en cuenta que pueden entrar en conflicto  Se recomienda usar texturas optimizadas y de baja resolución para no saturar el motor y mantener la estabilidad del paquete
