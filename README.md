@@ -1,40 +1,36 @@
-GTA SA Essentials Latino Open ForkLab
-¡Bienvenido al repositorio oficial del GTA SA Essentials Latino Open ForkLab! Este proyecto tiene como objetivo mejorar y actualizar la experiencia de Grand Theft Auto: San Andreas, ofreciendo un paquete de mods esencial y de código abierto para la comunidad latina.
+```markdown
+# GTA SA Essentials Latino Open ForkLab
 
-Características Principales:
-Estabilización del Juego: Incluye parches y correcciones para mejorar la estabilidad y prevenir crasheos comunes.
-Mejoras de Compatibilidad: Asegura un funcionamiento óptimo en sistemas operativos modernos (Windows 10/11).
-Optimizaciones de Rendimiento: Ajustes que contribuyen a una experiencia de juego más fluida y con menos tirones.
-Componentes Esenciales: Contiene cargadores de mods (como ASI Loader), librerías y utilidades fundamentales que sirven como base para la gestión de otros mods.
-Corrección de Bugs Conocidos: Aborda varios errores gráficos y de jugabilidad presentes en la versión original del juego.
-[Aquí puedes añadir cualquier otra característica única o notable de TU fork específico]
-Código Fuente y Contribuciones:
-Este proyecto es de código abierto. Te invitamos a:
+Este proyecto busca mejorar y actualizar la experiencia de *Grand Theft Auto: San Andreas*, ofreciendo un paquete de mods y archivos esenciales configurados especialmente para la comunidad latina.
 
-Explorar el código: Entender cómo funciona y qué componentes incluye.
-Proponer mejoras (Pull Requests): Si encuentras formas de optimizar el código, añadir funcionalidades o corregir errores.
-Reportar incidencias (Issues): Para cualquier bug, problema o sugerencia que tengas.
-¡Tu colaboración es clave para el crecimiento y la mejora continua de este proyecto!
+---
 
-Descarga del Mod Completo (Versión Lista para Instalar): Dado el tamaño considerable del paquete con todos los binarios y recursos, la descarga de la versión lista para instalar se encuentra alojada externamente en INTERNET ARCHIVE
+### 🌟 Características Principales
 
-➡️ https://archive.org/details/gta-sa-essentials-latino-open-fork-lab.-7z ⬅️
+* **Estabilización del Juego:** Incluye parches y correcciones avanzadas para mejorar la estabilidad general y prevenir los crasheos más comunes del motor gráfico.
+* **Mejoras de Compatibilidad:** Asegura un funcionamiento óptimo en sistemas operativos modernos (Windows 10 y Windows 11).
+* **Optimizaciones de Rendimiento:** Ajustes técnicos que contribuyen a una experiencia de juego más fluida, reduciendo los tirones (*stuttering*) y optimizando el uso de memoria.
+* **Componentes Esenciales:** Contiene cargadores de mods (como `Ultimate ASI Loader`), librerías y utilidades fundamentales que sirven como base sólida para la gestión de cualquier otra modificación.
+* **Corrección de Books Conocidos:** Aborda múltiples errores gráficos, de colisiones y de jugabilidad presentes en la versión original de PC.
+* **Soporte Avanzado para Mandos:** Configuración optimizada de fábrica para *joysticks* a través de XInput (estándar de Windows), incluyendo vibración nativa, apuntado libre con mouse simultáneo (`FreeAim`) y el parche crítico para evitar congelamientos al morir (`ApplyDeathFix`).
+* **Ajuste de Límites Extendido:** Inclusión de `Fastman92 Limit Adjuster` y `OpenLimitAdjuster` configurados minuciosamente para garantizar que el juego cargue las modificaciones de forma estable.
 
-¡Importante! Esta descarga contiene todos los archivos pre-compilados y necesarios para que el mod funcione directamente en tu juego.
+---
 
-Cómo Instalar:
+### 💾 ¡Importante!
+Esta descarga contiene todos los archivos pre-compilados y necesarios para que el mod funcione directamente en tu juego. No necesitas compilar nada, solo arrastrar y soltar.
 
-Sigue estos sencillos pasos para instalar el GTA SA Essentials Latino Open ForkLab:
+---
 
-Asegúrate de tener una instalación limpia de Grand Theft Auto: San Andreas. Es altamente recomendable comenzar con una instalación recién hecha y sin otros mods instalados previamente para evitar posibles conflictos.
+### 🚀 Cómo Instalar
 
-Descomprime el archivo descargado (normalmente será un archivo .zip o .rar) en una ubicación temporal en tu computadora.
-Copia todo el contenido de la carpeta descomprimida directamente en el directorio raíz de tu juego Grand Theft Auto: San Andreas. Este es donde se encuentra el archivo gta_sa.exe. Si te pregunta si deseas reemplazar archivos existentes, confirma que sí para aplicar todas las correcciones y mejoras.
-Inicia el juego y disfruta de una experiencia de GTA SA más estable y mejorada.
-Reporte de Errores y Sugerencias:
-Tu retroalimentación es invaluable. Si encuentras algún error, tienes alguna sugerencia para futuras mejoras o te gustaría proponer una nueva característica, por favor, utiliza la sección "Issues" de este repositorio de GitHub.
+Sigue estos sencillos pasos para instalar el **GTA SA Essentials Latino Open ForkLab**:
 
-Licencia:
-Este proyecto se distribuye bajo la MIT License. Puedes consultar el archivo LICENSE en este repositorio para los detalles completos de los términos de uso
+1.  Asegúrate de tener una **instalación limpia** de *Grand Theft Auto: San Andreas* (versión 1.0 US recomendada). Es altamente aconsejable comenzar con una instalación recién hecha y sin otros mods para evitar posibles conflictos.
+2.  Descomprime el archivo descargado (normalmente un archivo `.zip` o `.7z`) en una ubicación temporal de tu computadora.
+3.  Copia **todo el contenido** de la carpeta descomprimida directamente en el **directorio raíz** de tu juego (donde se encuentra el archivo `gta_sa.exe`). Si el sistema te pregunta si deseas reemplazar archivos existentes, confirma que **sí** para aplicar todas las correcciones y mejoras.
+4.  Inicia el juego y disfruta de una experiencia de GTA SA más estable, fluida y mejorada.
 
-Nota sobre Packs de Texturas: Si planeas instalar texturas personalizadas, ten en cuenta que pueden entrar en conflicto  Se recomienda usar texturas optimizadas y de baja resolución para no saturar el motor y mantener la estabilidad del paquete
+---
+
+> ⚠️ **Nota sobre Packs de Texturas:** Si planeas instalar texturas personalizadas encima de este paquete, se recomienda usar versiones optimizadas y de baja resolución para no saturar el motor y mantener la excelente estabilidad de este paquete.
